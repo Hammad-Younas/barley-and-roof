@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "474522431205",
+    "project_id": "barleyandroof",
+    "storage_bucket": "barleyandroof.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474522431205:android:054fffaf600bb8af882e0c",
+        "android_client_info": {
+          "package_name": "com.example.barley_and_roof"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474522431205-bo5roastkslbv9qkgdkobpjolvhuigo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaGSU-IbzEREprgKAV3HE9P4dDmz1Yygk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474522431205-bo5roastkslbv9qkgdkobpjolvhuigo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
